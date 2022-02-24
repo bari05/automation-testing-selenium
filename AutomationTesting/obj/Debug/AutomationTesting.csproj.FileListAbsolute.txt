@@ -1,0 +1,9 @@
+G:\Git\AutomationTesting\AutomationTesting\bin\Debug\AutomationTesting.exe.config
+G:\Git\AutomationTesting\AutomationTesting\bin\Debug\AutomationTesting.exe
+G:\Git\AutomationTesting\AutomationTesting\bin\Debug\AutomationTesting.pdb
+G:\Git\AutomationTesting\AutomationTesting\bin\Debug\WebDriver.dll
+G:\Git\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.csprojAssemblyReference.cache
+G:\Git\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.csproj.CoreCompileInputs.cache
+G:\Git\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.csproj.CopyComplete
+G:\Git\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.exe
+G:\Git\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.pdb
