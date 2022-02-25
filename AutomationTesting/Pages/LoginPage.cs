@@ -19,10 +19,10 @@ namespace AutomationTesting.Pages
             this.driver = driver;
         }
 
-        public void Login()
+        public void Login(string mailAddress, string passWord)
         {
-            driver.FindElement(username).SendKeys("temp1001@gmail.com");
-            driver.FindElement(password).SendKeys("temp1001");
+            driver.FindElement(username).SendKeys(mailAddress);
+            driver.FindElement(password).SendKeys(passWord);
             driver.FindElement(loginButton).Click();
         }
     }

@@ -98,3 +98,4 @@ G:\Git\AutomationTesting\AutomationTesting.Test\bin\Debug\netcoreapp3.1\Automati
 G:\Git\AutomationTesting\AutomationTesting.Test\obj\Debug\netcoreapp3.1\AutomationTesting.Test.dll
 G:\Git\AutomationTesting\AutomationTesting.Test\obj\Debug\netcoreapp3.1\AutomationTesting.Test.pdb
 G:\Git\AutomationTesting\AutomationTesting.Test\obj\Debug\netcoreapp3.1\AutomationTesting.Test.csproj.CoreCompileInputs.cache
+G:\Git\AutomationTesting\AutomationTesting.Test\bin\Debug\netcoreapp3.1\WebDriver.Support.dll

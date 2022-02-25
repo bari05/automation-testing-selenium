@@ -7,3 +7,4 @@ G:\Git\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.csproj.Co
 G:\Git\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.csproj.CopyComplete
 G:\Git\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.exe
 G:\Git\AutomationTesting\AutomationTesting\obj\Debug\AutomationTesting.pdb
+G:\Git\AutomationTesting\AutomationTesting\bin\Debug\WebDriver.Support.dll
