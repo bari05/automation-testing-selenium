@@ -34,7 +34,7 @@ namespace AutomationTesting.Test
         public void TestSignUp()
         {
             SignUpPage signup = new SignUpPage(driver);
-            signup.SignUp("temp10005@gmail.com","temp10005");
+            signup.SignUp("temp10101@gmail.com","temp10101");
         }
 
         [Test]
@@ -70,7 +70,7 @@ namespace AutomationTesting.Test
 
 
         }
-        //[TearDown]
+        [TearDown]
         public void Teardown()
         {
             driver.Close();
