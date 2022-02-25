@@ -55,6 +55,7 @@
     <Compile Include="Pages\LoginPage.cs" />
     <Compile Include="Pages\ProductPage.cs" />
     <Compile Include="Pages\SignUpPage.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

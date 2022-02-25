@@ -28,13 +28,12 @@ namespace AutomationTesting.Test
             //checking if "MY ACCOUNT" is visible after successfull login.
             Assert.IsTrue(driver.FindElement(By.XPath("//*[@id='center_column']/h1")).Displayed);
 
-            //driver.FindElement(By.XPath("//*[@id='header']/div[2]/div/div/nav/div[2]/a")).Click();
         }
          [Test]
         public void TestSignUp()
         {
             SignUpPage signup = new SignUpPage(driver);
-            signup.SignUp("temp10101@gmail.com","temp10101");
+            signup.SignUp("temp10103@gmail.com","temp10103");
         }
 
         [Test]
@@ -53,7 +52,7 @@ namespace AutomationTesting.Test
             Console.WriteLine("subcatagory");
             driver.FindElement(By.XPath("//*[@id='subcategories']/ul/li[1]/div[1]/a/img")).Click();//causal dress button
             
-           // wait.Until(e => e.FindElement(By.XPath("//*[@id='center_column']/div[1]/div")));
+            wait.Until(e => e.FindElement(By.XPath("//*[@id='center_column']/div[1]/div")));
             driver.FindElement(By.XPath("/html/body/div/div[2]/div/div[3]/div[2]/ul/li/div/div[2]/div[2]/a[1]/span")).Click();//add causal dress
 
             driver.Navigate().GoToUrl("http://automationpractice.com/index.php?id_category=5&controller=category"); 
@@ -70,7 +69,7 @@ namespace AutomationTesting.Test
 
 
         }
-        [TearDown]
+       // [TearDown]
         public void Teardown()
         {
             driver.Close();
